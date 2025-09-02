@@ -68,7 +68,7 @@ I mentor aspiring devs — helping career switchers and beginners **skip confusi
 - 🌐 [GitHub](https://github.com/TekMoral)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-adewale-a54b1229a/)  
 - 📩 [Email](tekmoral24@gmail.com)  
-- 🛠️ [tek.moral](https://tek.moral.com.ng) (personal site + project portfolio)
+- 🛠️ [tek.moral](https://tekmoral.com.ng) (personal site + project portfolio)
 
 ---
 
